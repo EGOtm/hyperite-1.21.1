@@ -1,0 +1,13 @@
+{
+  "itemGroup.hyperite": "Example Mod Tab",
+  "block.hyperite.example_block": "Example Block",
+  "item.hyperite.example_item": "Example Item",
+
+  "hyperite.configuration.title": "hyperite Configs",
+  "hyperite.configuration.section.hyperite.common.toml": "hyperite Configs",
+  "hyperite.configuration.section.hyperite.common.toml.title": "hyperite Configs",
+  "hyperite.configuration.items": "Item List",
+  "hyperite.configuration.logDirtBlock": "Log Dirt Block",
+  "hyperite.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hyperite.configuration.magicNumber": "Magic Number"
+}
